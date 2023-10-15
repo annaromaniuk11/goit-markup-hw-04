@@ -282,9 +282,6 @@ img {
 /*========== hero ============*/
 .hero {
   background: #f4f4fd;
-  height: 732px;
-  flex-shrink: 0;
-  display: block;
   padding: 120px 0;
 }
 .container-hero {
